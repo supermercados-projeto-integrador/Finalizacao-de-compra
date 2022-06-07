@@ -1,0 +1,14 @@
+body{
+    align-items: center;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.material-icons{
+    font-size: 30px
+}
+
+.click{
+    font-size: medium;
+    border-radius: 10px;
+}
